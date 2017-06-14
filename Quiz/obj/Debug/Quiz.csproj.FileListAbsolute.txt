@@ -1,0 +1,43 @@
+C:\Project\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Project\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Project\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Project\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Project\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Project\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Project\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Project\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Program\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\Program\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\Program\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\Program\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\Program\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+D:\Program\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Program\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+D:\Program\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Program\Quiz\Quiz\obj\Debug\Quiz.pdb
+H:\Program\Quiz\Quiz\bin\Debug\Quiz.exe.config
+H:\Program\Quiz\Quiz\bin\Debug\Quiz.exe
+H:\Program\Quiz\Quiz\bin\Debug\Quiz.pdb
+H:\Program\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+H:\Program\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+H:\Program\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+H:\Program\Quiz\Quiz\obj\Debug\Quiz.exe
+H:\Program\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Program 2\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\Program 2\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\Program 2\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\Program 2\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\Program 2\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+D:\Program 2\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Program 2\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+D:\Program 2\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Program 2\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Programik\Quiz\bin\Debug\Quiz.exe.config
+D:\Programik\Quiz\bin\Debug\Quiz.exe
+D:\Programik\Quiz\bin\Debug\Quiz.pdb
+D:\Programik\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+D:\Programik\Quiz\obj\Debug\Quiz.Form1.resources
+D:\Programik\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Programik\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+D:\Programik\Quiz\obj\Debug\Quiz.exe
+D:\Programik\Quiz\obj\Debug\Quiz.pdb
